@@ -1,1 +1,2 @@
 # Chess-game
+A fully functional chess game built using HTML, CSS, and JavaScript. This project features a visually appealing chessboard, draggable pieces, and interactive gameplay mechanics. It enforces the rules of chess, including valid piece movements, check, and checkmate detection. Designed to be responsive and user-friendly, it offers a smooth playing experience across devices. Ideal for chess enthusiasts and programmers looking for a dynamic web-based application.
